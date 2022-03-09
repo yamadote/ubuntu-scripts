@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Postman
+Icon=/usr/local/bin/postman/icon.png
+Exec="/usr/local/bin/postman/Postman"
+Comment=Postman 
+Categories=Development;
+Terminal=false
+StartupNotify=true
